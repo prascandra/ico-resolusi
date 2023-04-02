@@ -1,5 +1,5 @@
 Rencana Bahasa Pemrograma yang akkan Saya Pelajarai
 
-- html
+- html > Belajar online di Youtube
 - css
 - javascript
